@@ -1,0 +1,8 @@
+
+name: bir.rock_replay_cpp
+
+version_control:
+  - tools/rock_replay_cpp:
+    github: Brazilian-Institute-of-Robotics/rock_replay_cpp
+
+

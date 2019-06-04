@@ -1,0 +1,4 @@
+- base/types:
+    commit: 69b7e9d03c0d61b167d0c90d9fdd091eb010bed7
+- tools/pocolog_cpp:
+    commit: db8a7c7f617316842ee32acdf6eca3189fab9436
